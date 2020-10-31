@@ -72,7 +72,7 @@
 
 #MSG_CONFIRM_CARRIAGE_AT_THE_TOP c=20 r=2
 "Are left and right Z~carriages all up?"
-"Z~carriages gauche + droite tout en haut?"
+"Charriots Z gauche + droite tout en haut?"
 
 #MSG_AUTO_DEPLETE c=17 r=1
 "SpoolJoin"
@@ -84,7 +84,7 @@
 
 #MSG_AUTOLOAD_FILAMENT c=18
 "AutoLoad filament"
-"Autocharge du fil."
+"Chargement auto du fil."
 
 #MSG_AUTOLOADING_ONLY_IF_FSENS_ON c=20 r=4
 "Autoloading filament available only when filament sensor is turned on..."
@@ -112,7 +112,7 @@
 
 #MSG_BED_HEATING
 "Bed Heating"
-"Chauffe du lit"
+"Chauffe du plateau"
 
 #MSG_BED_CORRECTION_MENU
 "Bed level correct"
@@ -504,7 +504,7 @@
 
 #MSG_STEEL_SHEET_CHECK c=20 r=2
 "Is steel sheet on heatbed?"
-"Est la plaque sur le plat. chauffant?"
+"La plaque est sur le plat. chauffant?"
 
 #
 "Last print failures"
@@ -952,7 +952,7 @@
 
 #MSG_TOSHIBA_FLASH_AIR_COMPATIBILITY
 "FlashAir"
-"FlshAir"
+"FlashAir"
 
 #
 "Right"
@@ -980,15 +980,15 @@
 
 #MSG_SELFTEST_ERROR
 "Selftest error !"
-"Erreur auto-test!"
+"Erreur Auto-test!"
 
 #MSG_SELFTEST_FAILED c=20
 "Selftest failed  "
-"Echec de l'auto-test"
+"Echec de l'Auto-test"
 
 #MSG_FORCE_SELFTEST c=20 r=8
 "Selftest will be run to calibrate accurate sensorless rehoming."
-"Le Selftest sera lance pour calibrer la remise a zero precise sans capteur"
+"L'Auto-test sera lance pour calibrer la remise a zero precise sans capteur"
 
 #
 "Select nozzle preheat temperature which matches your material."
@@ -1304,7 +1304,7 @@
 
 #
 "The printer will start printing a zig-zag line. Rotate the knob until you reach the optimal height. Check the pictures in the handbook (Calibration chapter)."
-"L'imprimante commencera a  imprimer une ligne en zig-zag. Tournez le bouton jusqu'a atteindre la hauteur optimale. Consultez les photos dans le manuel (chapitre Calibration)."
+"L'imprimante commencera a imprimer une ligne en zig-zag. Tournez le bouton jusqu'a atteindre la hauteur optimale. Consultez les photos dans le manuel (chapitre Calibration)."
 
 # c=20 r=5
 "Verification failed, remove the filament and try again."
@@ -1348,7 +1348,7 @@
 
 #MSG_WARN
 "Warn"
-"Avert"
+"Avert."
 
 #
 "HW Setup"
@@ -1360,7 +1360,7 @@
 
 #MSG_MAGNETS_COMP
 "Magnets comp."
-"Compens. aim."
+"Ajust. aimants"
 
 #MSG_MESH
 "Mesh"
